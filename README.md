@@ -87,11 +87,3 @@ The results show a near-linear speedup up to 10 threads, with diminishing return
 ## Future Enhancements
 - **Task-level Parallelism**: Explore more granular parallelization.
 - **Hybrid Parallelization**: Combine OpenMP with MPI for distributed processing.
-
----
-
-## Author
-**Gustavo Amorim De Almeida**
-
-For questions or suggestions, feel free to open an issue or contact the author directly.
-
